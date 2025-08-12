@@ -1,6 +1,6 @@
 <header>
-    <nav class="navbar navbar-expand-lg custom-nav">
-        <div class="container-fluid">
+    <nav class="navbar shadow-sm navbar-expand-lg custom-nav">
+        <div class="container">
             <a class="navbar-brand" href="#">Codelis</a>
 
             <!-- Toggler/collapsing button for small screens -->
