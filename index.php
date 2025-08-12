@@ -15,21 +15,7 @@
     include("header.php");
     ?>
 
-    <div class="container-sm my-5">
-        <h1>Welcome to Codelis <small>For testing bootstrap</small></h1>
-    </div>
-
-    <div class="container-md my-5">
-        <h1>Welcome to Codelis <small>For testing bootstrap</small></h1>
-    </div>
-
-    <div class="container-lg my-5">
-        <h1>Welcome to Codelis <small>For testing bootstrap</small></h1>
-    </div>
-
     <div class="body container">
-
-        <h2>Columns</h2>
 
         <div class="row my-5">
             <div class="col-md-4">

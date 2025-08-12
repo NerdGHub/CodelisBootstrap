@@ -1,7 +1,7 @@
 <header>
     <nav class="navbar navbar-expand-lg custom-nav">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">MySite</a>
+            <a class="navbar-brand" href="#">Codelis</a>
 
             <!-- Toggler/collapsing button for small screens -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar"
