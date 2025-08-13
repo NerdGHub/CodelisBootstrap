@@ -22,7 +22,11 @@
             </div>
 
             <div class="row row-pop bg-light p-3">
-                <h1 class="text-primary">What we do for you</h1>
+
+                <div class="col-12">
+                    <h1 class="text-primary">What we do for you</h1>
+                </div>
+
 
                 <div class="col-md-6">
                     <h2 class="text-secondary">For Employers</h2>
