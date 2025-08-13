@@ -1,5 +1,5 @@
 <header>
-    <nav class="navbar shadow-sm navbar-expand-lg custom-nav">
+    <nav class="navbar shadow-sm navbar-expand-md">
         <div class="container">
             <a class="navbar-brand" href="#">Codelis</a>
 
@@ -12,11 +12,11 @@
             <!-- Collapsible content -->
             <div class="collapse navbar-collapse" id="mainNavbar">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item px-2 mx-2 text-white">
+                    <li class="nav-item px-2">
                         <a class="nav-link" href="#">Home</a>
                     </li>
 
-                    <li class="nav-item px-2 mx-2 text-white">
+                    <li class="nav-item px-2">
                         <a class="nav-link" href="#">About</a>
                     </li>
 

@@ -1,5 +1,5 @@
 <DOCTYPE !html>
-    <html lang="en">
+    <html lang="en" data-bs-theme="light">
 
     <head>
         <meta charset="UTF-8">
@@ -15,14 +15,17 @@
         <?php include 'header.php' ?>
         <div class="container">
 
-            <div class="row p-2" id="hero_row">
+            <div class="row row-pop text-white" id="hero_row">
                 <h1>Welcome to Codelis</h1>
+                <p>Your first choice for long term employment after university</p>
+                <a href="" class="btn btn-primary w-25">Join Now</a>
             </div>
 
-            <div class="row p-2 bg-light">
-                <h1>What we do for you</h1>
+            <div class="row row-pop bg-light p-3">
+                <h1 class="text-primary">What we do for you</h1>
+
                 <div class="col-md-6">
-                    <h2>For Employers</h2>
+                    <h2 class="text-secondary">For Employers</h2>
                     <p>We take on the search for candidates on your behalf looking through:</p>
                     <ul>
                         <li>CVs</li>
@@ -45,8 +48,8 @@
                     <p><em>Rates negotiable for long-term clients. No cost to candidates.</em></p>
                 </div>
 
-                <div style="col-md-6">
-                    <h2>For Candidates</h2>
+                <div class="col-md-6">
+                    <h2 class="text-secondary">For Candidates</h2>
                     <p>We help you find the right job for you by:</p>
                     <ul>
                         <li>Matching your skills to the right employers</li>
@@ -59,14 +62,14 @@
                         Add your information into our system once, and we’ll handle the rest. We’ll get in touch when a
                         match arises, represent you, and guide you through the hiring process.
                     </p>
-
                 </div>
-
             </div>
+
+            <?php
+            include("footer.php");
+            ?>
+
         </div>
-
     </body>
-
-
 
     </html>
