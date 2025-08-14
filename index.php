@@ -94,12 +94,6 @@
 
                 </div>
             </div>
-
-            <div class="row row-pop bg-light p-3" id="register_index">
-                <?php
-                include('forms/register.php');
-                ?>
-            </div>
         </div>
 
         <?php

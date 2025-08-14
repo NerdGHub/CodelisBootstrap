@@ -29,11 +29,14 @@
 
                     <li class="nav-item px-2 dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
-                            Jobs
+                            Register
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="../forms/register.php">For Graduates</a></li>
-                            <li><a class="dropdown-item" href="../forms/login.php">For Employers</a></li>
+                            <li><a class="dropdown-item" href="../forms/register_index.php?type=graduate">Register as
+                                    Graduate</a></li>
+                            <li><a class="dropdown-item" href="../forms/register_index.php?type=employer">Register as
+                                    Employer</a>
+                            </li>
                         </ul>
                     </li>
                 </ul>
