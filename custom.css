@@ -30,17 +30,11 @@ body {
     border-radius: 15px;
 }
 
-#p-color {
-    color: var(--bs-cyan);
-    font-family: var(--bs-font-monospace);
-}
-
 #hero_row {
     background: url('pics/homepage-img.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;

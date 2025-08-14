@@ -1,5 +1,5 @@
 <footer>
-    <div class="row">
+    <div class="row m-3">
 
         <hr text-primary my-2">
 

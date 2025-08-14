@@ -24,6 +24,8 @@
                     include 'register_graduate.php';
                 } elseif ($type === 'employer') {
                     include 'register_employer.php';
+                } elseif ($type === 'support') {
+                    include 'register_ticket.php';
                 } else {
                     echo "<p>Invalid type selected.</p>";
                 }

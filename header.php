@@ -31,14 +31,19 @@
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
                             Register
                         </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="../forms/register_index.php?type=graduate">Register as
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="../forms/form_index.php?type=graduate">Register as
                                     Graduate</a></li>
-                            <li><a class="dropdown-item" href="../forms/register_index.php?type=employer">Register as
+                            <li><a class="dropdown-item" href="../forms/form_index.php?type=employer">Register as
                                     Employer</a>
                             </li>
                         </ul>
                     </li>
+
+                    <li class="nav-item px-2">
+                        <a class="nav-link" href="../forms/form_index.php?type=support">Support</a>
+                    </li>
+
                 </ul>
             </div>
 
